@@ -1,0 +1,8 @@
+.navBody {
+	/* background-image: url(https://img.freepik.com/free-photo/abstract-luxury-gradient-blue-background-smooth-dark-blue-with-black-vignette-studio-banner_1258-52393.jpg?w=1380&t=st=1687690160~exp=1687690760~hmac=eb616cfd957a85dd921812841174ef8548bfe96619296933b563b4edd133ed16); */
+	background-image: url(../assets/background.jpg);
+	background-size: cover;
+}
+.CardHover:hover {
+	box-shadow: 0 0 5px;
+}
